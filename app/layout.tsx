@@ -40,8 +40,8 @@ export const metadata: Metadata = {
     title: 'Samarjit Mahi — FullStack Engineer',
     description:
       'Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.',
-    url: 'https://samarmahii.netlify.app//',
-    siteName: 'https://samarmahii.netlify.app/',
+    url: 'https://samarmahi.netlify.app//',
+    siteName: 'https://samarmahi.netlify.app/',
     images: [
       {
         url: 'https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png',
