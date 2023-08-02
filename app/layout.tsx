@@ -12,9 +12,7 @@ const syne = Syne({
 
 export const metadata: Metadata = {
   title: 'Samarjit Mahi — FullStack Engineer',
-  description:
-    'Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.',
-  generator: 'Next.js',
+  description: 'Currently pursuing MCA from Manipal Institute of Technology',
   applicationName: 'samarjit mahi',
   keywords: [
     'freelance',
@@ -38,8 +36,7 @@ export const metadata: Metadata = {
   colorScheme: 'dark',
   openGraph: {
     title: 'Samarjit Mahi — FullStack Engineer',
-    description:
-      'Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.',
+    description: 'Currently pursuing MCA from Manipal Institute of Technology.',
     url: 'https://samarmahi.netlify.app//',
     siteName: 'https://samarmahi.netlify.app/',
     images: [
@@ -60,9 +57,7 @@ export const metadata: Metadata = {
       'Frontend Engineer and Product Designer, currently at Crown Branding Agency. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.',
     creator: 'victorwill__',
     creatorId: '1243720976552144897',
-    images: [
-      'https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png',
-    ],
+    images: ['https://ibb.co/PFgcMZt'],
   },
   robots: {
     index: true,
